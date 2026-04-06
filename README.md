@@ -21,6 +21,14 @@ References:
 
 ## Usage
 
+**One-liner (quickest):**
+
+```bash
+curl -O https://raw.githubusercontent.com/yzzztech/axios-supply-chain-scanner/main/axios-scan.sh && chmod +x axios-scan.sh && ./axios-scan.sh
+```
+
+**Step by step:**
+
 ```bash
 curl -O https://raw.githubusercontent.com/yzzztech/axios-supply-chain-scanner/main/axios-scan.sh
 chmod +x axios-scan.sh
